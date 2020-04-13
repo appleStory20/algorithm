@@ -1,3 +1,6 @@
+// Programmers Algorithm
+// What is the number k
+// k번째 수
 
 function solution(array, commands) {
     var answer = [];
